@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.sectionItemList {
+  display: flex;
+  justify-content: space-evenly ;
+  padding-top: 20px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 20;
+}
